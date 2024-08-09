@@ -1,41 +1,63 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhil
 ======================================================================================================================================
-<h4>A Python Full-Stack developer | </h4>
+<h4>A Python Full-Stack developer  </h4>
 
 - 🔭 I’m currently working on a Django Projects
-- 🌱 I’m Interested to work on Web 3.0
+- 🌱 I’m currently learning **Testing**
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: akhilyerubandi143@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
+
+<p align="left">
 <a href="https:https://github.com/Akhil08893" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Akhil08893?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhil08893&label=Profile%20views&color=0e75b6&style=flat" alt="Akhil08" /> </p>
+src="https://img.shields.io/github/followers/Akhil08893?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />  
+</a>  &nbsp
+ <img src="https://komarev.com/ghpvc/?username=Akhil08893&label=Profile%20views&color=0e75b6&style=flat" alt="Akhil08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/YerubandiAkhil" target="blank"><img src="https://img.shields.io/twitter/follow/YerubandiAkhil?logo=twitter&style=for-the-badge" alt="AkhilYerubandi" /></a> </p>
+### Socials
 
-<h3 align="left">Languages:</h3>
-<p align="left">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/>  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> <img src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" alt="express" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </p>
+<p align="left">  <a href="https://www.linkedin.com/in/akhil-yerubandi-2277bb231/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1920px-Django_logo.svg.png" alt="Django" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png" alt="AWS" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="React" width="40" height="40"/>
+<a href="https://twitter.com/YerubandiAkhil" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </picture>
+</a>
+
 </p>
 
 
-<!--- <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Akhil08893"><img src="https://github-readme-stats.vercel.app/api?username=Akhil08893&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Akhil08's GitHub stats" /></a>  --->
 
-<!-- <a href="http://www.github.com/Akhil08893"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil08893&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<a href="http://www.github.com/Akhil08893">GitHub Commits Graph</a> -->
+<div  align=center>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,tailwind,html,css,vscode,github,git,aws" />
+    <img src="https://skillicons.dev/icons?i=django,python,nodejs,javascript,express,firebase,mongodb,mysql,c,java,r" /><br>
+     
+</div>
 
-<a href="https://github.com/Akhil08893" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil08893&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<h2 >⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil08893&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Akhil08893&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil08893&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<h2>Top Repositories</h2>
+<div  align=center>
+  <div width="100%" align="center"><a href="https://github.com/Akhil08893/RealEstate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=RealEstate&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 
 <div width="100%" align="center"><a href="https://github.com/Akhil08893/College-Management-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=College-Management-System&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/Akhil08893/Flames" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=Flames&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/Akhil08893/ToDo-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=ToDo-list&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Akhil08893/ToDo-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=ToDo-list&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+</div>
