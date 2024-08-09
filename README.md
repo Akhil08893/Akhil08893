@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>A Python Full-Stack developer  </h4>
 
 - 🔭 I’m currently working on a Django Projects
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **web 3.0**
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: akhilyerubandi143@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
