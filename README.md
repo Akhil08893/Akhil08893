@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on a Django Projects
 - 🌱 I’m currently learning **web 3.0**
-- 💬 Ask me about Technology & Finance
+- 💬 Ask me about Technology
 - 📫 How to reach me: akhilyerubandi143@gmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
@@ -46,9 +46,6 @@ src="https://img.shields.io/github/followers/Akhil08893?logo=github&style=for-th
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil08893&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Akhil08893&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil08893&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <h2>Top Repositories</h2>
@@ -58,6 +55,4 @@ src="https://img.shields.io/github/followers/Akhil08893?logo=github&style=for-th
 
 <div width="100%" align="center"><a href="https://github.com/Akhil08893/College-Management-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=College-Management-System&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<div width="100%" align="center"><a href="https://github.com/Akhil08893/ToDo-list" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhil08893&repo=ToDo-list&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-</div>
